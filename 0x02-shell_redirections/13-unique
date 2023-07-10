@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -u < list > unqic_words
+sort | uniq -u list 
