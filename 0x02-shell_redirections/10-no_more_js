@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -Rfr *.js
+find  -R *js |  rm -Rfr 
