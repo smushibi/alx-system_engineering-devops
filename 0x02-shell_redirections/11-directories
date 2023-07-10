@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRa | grep "^d" | grep -vE "^\./(\.\.|\.):" | wc -c
+ls -lRa | grep "^d" | grep -vE "^\./(\.\.|\.):" | wc -1
