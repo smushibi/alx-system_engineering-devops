@@ -1,2 +1,2 @@
 #!/bin/bash
-find  -R *js |  rm -Rfr 
+find  -R *js |  rm -frR 
