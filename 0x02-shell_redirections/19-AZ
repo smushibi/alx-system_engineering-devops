@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Your input" | tr 'Ac' 'Ze'
+echo "Apple and cat" | tr 'Ac' 'Ze'
