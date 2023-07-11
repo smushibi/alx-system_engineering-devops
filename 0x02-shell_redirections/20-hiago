@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Your input with c and C" | tr -d 'cC'
