@@ -1,1 +1,1 @@
-my first c directory
+introduction  to c
